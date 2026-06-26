@@ -1,4 +1,4 @@
-# Smart Spend Trracking System 
+# Smart Spend Tracking System 
 
 A comprehensive financial tracking and management application with AI-powered support.
 
